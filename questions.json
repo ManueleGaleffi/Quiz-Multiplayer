@@ -1,0 +1,373 @@
+[
+    {
+      "question": "Qual è la capitale del Giappone?",
+      "answers": ["Tokyo", "Pechino", "Seoul", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "question": "Qual è l'organo principale del sistema respiratorio umano?",
+      "answers": ["Cuore", "Polmone", "Stomaco", "Fegato"],
+      "correctAnswer": "Polmone"
+    },
+    {
+      "question": "In quale paese si trova la Grande Muraglia?",
+      "answers": ["Cina", "Giappone", "Corea del Sud", "India"],
+      "correctAnswer": "Cina"
+    },
+    {
+      "question": "Quale è l'elemento chimico più abbondante nell'Universo?",
+      "answers": ["Ossigeno", "Idrogeno", "Carbonio", "Azoto"],
+      "correctAnswer": "Idrogeno"
+    },
+    {
+      "question": "Quale città italiana è famosa per la Torre Pendente?",
+      "answers": ["Milano", "Roma", "Pisa", "Firenze"],
+      "correctAnswer": "Pisa"
+    },
+    {
+      "question": "Quale animale è noto per il suo camuffamento?",
+      "answers": ["Leopardo", "Camaleonte", "Tigre", "Orso"],
+      "correctAnswer": "Camaleonte"
+    },
+    {
+      "question": "Chi è l'autore di 'Il Piccolo Principe'?",
+      "answers": ["Hermann Hesse", "Antoine de Saint-Exupéry", "Albert Camus", "F. Scott Fitzgerald"],
+      "correctAnswer": "Antoine de Saint-Exupéry"
+    },
+    {
+      "question": "Quale paese è conosciuto come la 'Terra del Sol Levante'?",
+      "answers": ["Italia", "Australia", "Spagna", "Giappone"],
+      "correctAnswer": "Giappone"
+    },
+    {
+      "question": "Quale pianeta del Sistema Solare è conosciuto come il 'Pianeta Rosso'?",
+      "answers": ["Giove", "Venere", "Marte", "Saturno"],
+      "correctAnswer": "Marte"
+    },
+    {
+      "question": "Chi è stato il primo uomo a camminare sulla Luna?",
+      "answers": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+      "correctAnswer": "Neil Armstrong"
+    },
+    {
+      "question": "Quale è il metallo più leggero?",
+      "answers": ["Alluminio", "Ferro", "Oro", "Litio"],
+      "correctAnswer": "Litio"
+    },
+    {
+      "question": "In quale oceano si trova l'Isola di Pasqua?",
+      "answers": ["Oceano Atlantico", "Oceano Indiano", "Oceano Pacifico", "Oceano Artico"],
+      "correctAnswer": "Oceano Pacifico"
+    },
+    {
+      "question": "Quale è il più grande deserto del mondo?",
+      "answers": ["Deserto del Sahara", "Deserto di Atacama", "Deserto del Gobi", "Deserto Antartico"],
+      "correctAnswer": "Deserto del Sahara"
+    },
+    {
+      "question": "Quale è l'elemento chimico più pesante?",
+      "answers": ["Uranio", "Osmio", "Plutonio", "Oro"],
+      "correctAnswer": "Osmio"
+    },
+    {
+      "question": "Chi è stato l'artista rinascimentale autore della 'Cappella Sistina'?",
+      "answers": ["Leonardo da Vinci", "Michelangelo", "Raffaello", "Donatello"],
+      "correctAnswer": "Michelangelo"
+    },
+    {
+      "question": "Quale era il nome dell'astronave della missione Apollo 11?",
+      "answers": ["Columbia", "Endeavour", "Eagle", "Atlantis"],
+      "correctAnswer": "Eagle"
+    },
+    {
+      "question": "Qual è l'organo più grande del corpo umano?",
+      "answers": ["Cuore", "Fegato", "Cervello", "Pelle"],
+      "correctAnswer": "Pelle"
+    },
+    {
+      "question": "Quale animale è noto per essere il più veloce sulla terra?",
+      "answers": ["Ghepardo", "Leopardo", "Leone", "Tigre"],
+      "correctAnswer": "Ghepardo"
+    },
+    {
+      "question": "Quale è il fiume più lungo del mondo?",
+      "answers": ["Nilo", "Mississippi", "Amazzonia", "Gange"],
+      "correctAnswer": "Nilo"
+    },
+    {
+      "question": "Qual è il più grande animale terrestre?",
+      "answers": ["Elefante", "Rinoceronte", "Ippopotamo", "Giraffa"],
+      "correctAnswer": "Elefante"
+    },
+    {
+      "question": "Quale è il pianeta più grande del Sistema Solare?",
+      "answers": ["Giove", "Saturno", "Urano", "Nettuno"],
+      "correctAnswer": "Giove"
+    },
+    {
+      "question": "Quale è la lingua più parlata nel mondo?",
+      "answers": ["Inglese", "Mandarino", "Spagnolo", "Hindi"],
+      "correctAnswer": "Mandarino"
+    },
+    {
+      "question": "Quale è la capitale dell'Australia?",
+      "answers": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "Quale è il nome scientifico dell'acqua?",
+      "answers": ["H2O", "CO2", "NaCl", "O2"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "Quale è la montagna più alta del mondo?",
+      "answers": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": "Everest"
+    },
+    {
+      "question": "Quale è il metallo più prezioso?",
+      "answers": ["Oro", "Argento", "Platino", "Rame"],
+      "correctAnswer": "Platino"
+    },
+    {
+      "question": "Quale è il fiume più lungo d'Europa?",
+      "answers": ["Danubio", "Volga", "Reno", "Senna"],
+      "correctAnswer": "Volga"
+    },
+    {
+      "question": "Quale è il paese più grande del mondo per superficie?",
+      "answers": ["Canada", "Stati Uniti", "Russia", "Cina"],
+      "correctAnswer": "Russia"
+    },
+    {
+      "question": "Quale è la capitale della Francia?",
+      "answers": ["Parigi", "Marsiglia", "Lione", "Nizza"],
+      "correctAnswer": "Parigi"
+    },
+    {
+      "question": "Quale è il simbolo chimico per l'oro?",
+      "answers": ["Ag", "Au", "Pb", "Fe"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Quale è il nome del satellite naturale della Terra?",
+      "answers": ["Luna", "Marte", "Venere", "Saturno"],
+      "correctAnswer": "Luna"
+    },
+    {
+      "question": "Quale è il paese più piccolo del mondo?",
+      "answers": ["Monaco", "San Marino", "Liechtenstein", "Vaticano"],
+      "correctAnswer": "Vaticano"
+    },
+    {
+      "question": "Quale è la città più popolosa del mondo?",
+      "answers": ["New York", "Tokyo", "Shanghai", "Mumbai"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "question": "Quale è l'elemento chimico con simbolo 'O'?",
+      "answers": ["Oro", "Ossigeno", "Osmio", "Ozono"],
+      "correctAnswer": "Ossigeno"
+    },
+    {
+      "question": "Quale è il fiume più lungo in Italia?",
+      "answers": ["Arno", "Tevere", "Po", "Adige"],
+      "correctAnswer": "Po"
+    },
+    {
+      "question": "Quale è il paese con il maggior numero di isole?",
+      "answers": ["Indonesia", "Filippine", "Giappone", "Svezia"],
+      "correctAnswer": "Svezia"
+    },
+    {
+      "question": "Quale è l'animale più grande del mondo?",
+      "answers": ["Elefante africano", "Balena blu", "Squalo bianco", "Orca"],
+      "correctAnswer": "Balena blu"
+    },
+    {
+      "question": "Quale è il gas più abbondante nell'atmosfera terrestre?",
+      "answers": ["Ossigeno", "Idrogeno", "Azoto", "Elio"],
+      "correctAnswer": "Azoto"
+    },
+    {
+      "question": "Quale è il nome della nostra galassia?",
+      "answers": ["Via Lattea", "Andromeda", "Galassia del Triangolo", "Nube di Magellano"],
+      "correctAnswer": "Via Lattea"
+    },
+    {
+      "question": "Quale è il pianeta più vicino al Sole?",
+      "answers": ["Venere", "Terra", "Mercurio", "Marte"],
+      "correctAnswer": "Mercurio"
+    },
+    {
+      "question": "Quale è l'animale più velenoso del mondo?",
+      "answers": ["Serpente a sonagli", "Ragno eremita marrone", "Polpo dagli anelli blu", "Medusa vespa di mare"],
+      "correctAnswer": "Medusa vespa di mare"
+    },
+    {
+      "question": "Quale è il nome del gas più leggero?",
+      "answers": ["Elio", "Ossigeno", "Idrogeno", "Azoto"],
+      "correctAnswer": "Idrogeno"
+    },
+    {
+      "question": "Quale è la capitale dell'Italia?",
+      "answers": ["Milano", "Venezia", "Roma", "Firenze"],
+      "correctAnswer": "Roma"
+    },
+    {
+      "question": "Quale è il pianeta più lontano dal Sole?",
+      "answers": ["Urano", "Nettuno", "Plutone", "Saturno"],
+      "correctAnswer": "Nettuno"
+    },
+    {
+      "question": "Quale è l'unico satellite naturale della Terra?",
+      "answers": ["Luna", "Marte", "Venere", "Saturno"],
+      "correctAnswer": "Luna"
+    },
+    {
+      "question": "Quale è il paese più popoloso del mondo?",
+      "answers": ["India", "Stati Uniti", "Indonesia", "Cina"],
+      "correctAnswer": "Cina"
+    },
+    {
+      "question": "Quale è il continente più piccolo per superficie?",
+      "answers": ["Europa", "Australia", "Antartide", "Sud America"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Quale è il simbolo chimico del ferro?",
+      "answers": ["Fe", "Ir", "Fr", "Fi"],
+      "correctAnswer": "Fe"
+    },
+    {
+      "question": "Quale è l'animale più alto del mondo?",
+      "answers": ["Elefante", "Giraffa", "Rinoceronte", "Cavallo"],
+      "correctAnswer": "Giraffa"
+    },
+    {
+      "question": "Quale è la lingua ufficiale del Brasile?",
+      "answers": ["Spagnolo", "Portoghese", "Francese", "Inglese"],
+      "correctAnswer": "Portoghese"
+    },
+    {
+      "question": "Quale è l'elemento chimico con simbolo 'H'?",
+      "answers": ["Ossigeno", "Idrogeno", "Elio", "Carbonio"],
+      "correctAnswer": "Idrogeno"
+    },
+    {
+      "question": "Quale è la più alta montagna dell'Africa?",
+      "answers": ["Monte Kilimanjaro", "Monte Kenya", "Monte Rwenzori", "Monte Elgon"],
+      "correctAnswer": "Monte Kilimanjaro"
+    },
+    {
+      "question": "Quale è la più grande isola del mondo?",
+      "answers": ["Madagascar", "Nuova Guinea", "Groenlandia", "Borneo"],
+      "correctAnswer": "Groenlandia"
+    },
+    {
+      "question": "Quale è il più grande oceano del mondo?",
+      "answers": ["Oceano Atlantico", "Oceano Indiano", "Oceano Pacifico", "Oceano Artico"],
+      "correctAnswer": "Oceano Pacifico"
+    },
+    {
+      "question": "Quale è la più grande barriera corallina del mondo?",
+      "answers": ["Barriera Corallina del Mar Rosso", "Barriera Corallina delle Maldive", "Barriera Corallina del Belize", "Grande Barriera Corallina"],
+      "correctAnswer": "Grande Barriera Corallina"
+    },
+    {
+      "question": "Quale è il più grande lago dell'Africa?",
+      "answers": ["Lago Vittoria", "Lago Tanganica", "Lago Malawi", "Lago Turkana"],
+      "correctAnswer": "Lago Vittoria"
+    },
+    {
+      "question": "Quale è il nome della galassia più vicina alla Via Lattea?",
+      "answers": ["Galassia del Triangolo", "Galassia di Andromeda", "Galassia di Messier 87", "Galassia di Whirlpool"],
+      "correctAnswer": "Galassia di Andromeda"
+    },
+    {
+      "question": "Quale è l'elemento chimico più abbondante sulla Terra?",
+      "answers": ["Ossigeno", "Silicio", "Alluminio", "Ferro"],
+      "correctAnswer": "Ossigeno"
+    },
+    {
+      "question": "Quale è la capitale del Messico?",
+      "answers": ["Guadalajara", "Cancun", "Tijuana", "Città del Messico"],
+      "correctAnswer": "Città del Messico"
+    },
+    {
+      "question": "Quale è il metallo più resistente?",
+      "answers": ["Acciaio", "Tungsteno", "Titanio", "Oro"],
+      "correctAnswer": "Tungsteno"
+    },
+    {
+      "question": "Quale è l'animale più intelligente?",
+      "answers": ["Scimpanzé", "Delfino", "Elefante", "Corvo"],
+      "correctAnswer": "Delfino"
+    },
+    {
+      "question": "Quale è il nome del gas più abbondante sulla Terra?",
+      "answers": ["Ossigeno", "Azoto", "Idrogeno", "Elio"],
+      "correctAnswer": "Azoto"
+    },
+    {
+      "question": "Quale è il più grande lago d'acqua dolce del mondo?",
+      "answers": ["Lago Superiore", "Lago Vittoria", "Lago Tanganica", "Lago Baikal"],
+      "correctAnswer": "Lago Baikal"
+    },
+    {
+      "question": "Quale è la capitale del Canada?",
+      "answers": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "question": "Quale è il sistema di scrittura degli antichi Egizi?",
+      "answers": ["Cuneiforme", "Geroglifici", "Alfabeto Fenicio", "Kanji"],
+      "correctAnswer": "Geroglifici"
+    },
+    {
+      "question": "Quale è il materiale più resistente conosciuto dall'uomo?",
+      "answers": ["Acciaio", "Grafene", "Diamante", "Kevlar"],
+      "correctAnswer": "Grafene"
+    },
+    {
+      "question": "Quale è il gas più leggero?",
+      "answers": ["Elio", "Ossigeno", "Idrogeno", "Azoto"],
+      "correctAnswer": "Idrogeno"
+    },
+    {
+      "question": "Quale è il nome della stella più vicina alla Terra?",
+      "answers": ["Proxima Centauri", "Alpha Centauri", "Sole", "Betelgeuse"],
+      "correctAnswer": "Sole"
+    },
+    {
+      "question": "Quale è il sistema operativo per smartphone sviluppato da Google?",
+      "answers": ["iOS", "Android", "Windows Phone", "BlackBerry OS"],
+      "correctAnswer": "Android"
+    },
+    {
+      "question": "Quale è il frutto principale utilizzato per fare il vino?",
+      "answers": ["Mela", "Banana", "Uva", "Pera"],
+      "correctAnswer": "Uva"
+    },
+    {
+      "question": "Quale è il più grande organo del corpo umano?",
+      "answers": ["Cuore", "Fegato", "Polmone", "Pelle"],
+      "correctAnswer": "Pelle"
+    },
+    {
+      "question": "Quale è il più grande uccello volante?",
+      "answers": ["Aquila", "Condor", "Albatros", "Struzzo"],
+      "correctAnswer": "Albatros"
+    },
+    {
+      "question": "Quale è il più grande deserto caldo del mondo?",
+      "answers": ["Deserto del Gobi", "Deserto dell'Atacama", "Deserto del Sahara", "Deserto del Kalahari"],
+      "correctAnswer": "Deserto del Sahara"
+    },
+    {
+      "question": "Quale è l'unico mammifero che può volare?",
+      "answers": ["Pipistrello", "Scoiattolo volante", "Falco", "Gufo"],
+      "correctAnswer": "Pipistrello"
+    }
+  ]
+  
